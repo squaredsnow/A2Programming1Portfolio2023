@@ -15,7 +15,7 @@ OOP graphical calculator using processing
 Game created using Processing
 
 ![Game](https://github.com/squaredsnow/A2Programming1Portfolio2023/blob/main/images/InGame.png?raw=true)
-![Death Screen]()
+![Death Screen](https://github.com/squaredsnow/A2Programming1Portfolio2023/blob/main/images/DeathScreen.png?raw=true)
 
 [Source Code]()
 
