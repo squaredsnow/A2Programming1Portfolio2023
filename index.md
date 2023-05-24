@@ -20,3 +20,8 @@ Game created using Processing
 [Source Code](https://github.com/squaredsnow/A2Programming1Portfolio2023/tree/main/src/SpaceGame)
 
 ## Programming Semester 2 Projects:
+
+### Text Based Adventure
+
+Game with a great story story and lore
+
